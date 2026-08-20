@@ -18,3 +18,8 @@ View your app in AI Studio: https://ai.studio/apps/f8b6242a-f2c7-4288-915e-0033f
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+
+## Waiting-list management app
+
+This repo now contains a Korean 이용인 대기자관리 UI. For practical setup, local testing, Google Sheets integration notes, and privacy/security cautions, see [docs/how-to-use-waiting-list-app.md](docs/how-to-use-waiting-list-app.md).
